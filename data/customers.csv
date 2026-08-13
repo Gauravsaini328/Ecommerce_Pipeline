@@ -1,0 +1,16 @@
+customer_id,name,email,city,state,registration_date
+1,Aarav Sharma,aarav.sharma@gmail.com,Delhi,Delhi,2024-01-15
+2,Priya Verma,priya.verma@gmail.com,Mumbai,Maharashtra,2024-02-20
+3,Rohan Gupta,rohan.gupta@gmail.com,Bangalore,Karnataka,2024-03-12
+4,Sneha Patel,sneha.patel@gmail.com,Ahmedabad,Gujarat,2024-04-05
+5,Arjun Singh,arjun.singh@gmail.com,Delhi,Delhi,2024-05-18
+6,Meera Iyer,meera.iyer@gmail.com,Chennai,Tamil Nadu,2024-06-22
+7,Karan Mehta,karan.mehta@gmail.com,Pune,Maharashtra,2024-07-10
+8,Ananya Das,ananya.das@gmail.com,Kolkata,West Bengal,2024-08-14
+9,Vikram Rao,vikram.rao@gmail.com,Hyderabad,Telangana,2024-09-09
+10,Neha Kapoor,neha.kapoor@gmail.com,Delhi,Delhi,2024-10-25
+11,Rahul Nair,rahul.nair@gmail.com,Kochi,Kerala,2025-01-08
+12,Pooja Joshi,pooja.joshi@gmail.com,Jaipur,Rajasthan,2025-02-17
+13,Aditya Malhotra,aditya.malhotra@gmail.com,Mumbai,Maharashtra,2025-03-21
+14,Ishita Roy,ishita.roy@gmail.com,Kolkata,West Bengal,2025-04-11
+15,Manish Yadav,manish.yadav@gmail.com,Lucknow,Uttar Pradesh,2025-05-30

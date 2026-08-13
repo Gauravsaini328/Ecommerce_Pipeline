@@ -1,0 +1,31 @@
+product_id,product_name,category_id,seller_id,price,stock_quantity
+1001,Wireless Mouse,1,101,799,50
+1002,Mechanical Keyboard,1,101,2499,25
+1003,Bluetooth Headphones,1,107,1999,40
+1004,Smart Watch,1,107,3499,15
+1005,Power Bank 20000mAh,1,108,1499,0
+1006,Mens Casual Shirt,2,102,999,60
+1007,Womens Denim Jacket,2,102,1899,30
+1008,Running Shoes,2,108,2499,35
+1009,Mens Jeans,2,102,1599,45
+1010,Leather Wallet,2,108,799,70
+1011,Mixer Grinder,3,103,3299,20
+1012,Non Stick Frying Pan,3,103,1299,50
+1013,Electric Kettle,3,108,1099,0
+1014,Bedsheet Set,3,103,899,65
+1015,Table Lamp,3,108,749,40
+1016,Python Programming,4,104,699,80
+1017,SQL for Data Analysis,4,104,599,75
+1018,Data Engineering Fundamentals,4,104,999,50
+1019,Machine Learning Basics,4,104,799,45
+1020,Atomic Habits,4,108,499,90
+1021,Yoga Mat,5,105,899,50
+1022,Dumbbell Set 10KG,5,105,2499,20
+1023,Resistance Bands,5,105,599,70
+1024,Cricket Bat,5,108,1999,25
+1025,Skipping Rope,5,105,399,100
+1026,Face Wash,6,106,349,80
+1027,Vitamin C Serum,6,106,699,55
+1028,Hair Dryer,6,106,1499,30
+1029,Sunscreen SPF 50,6,106,599,75
+1030,Trimmer,6,108,1299,0
