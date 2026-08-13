@@ -46,8 +46,8 @@ I used 7 CSV files:
 - `orders.csv`
 - `order_items.csv`
 - `payments.csv`
-
-These datasets represent a small e-commerce system with customers, products, sellers, orders and payments.
+  
+> The 7 source CSV files are included in the `data/` folder of this repository for reproducibility.
 
 ## Bronze Layer
 
